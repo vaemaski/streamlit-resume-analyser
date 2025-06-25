@@ -1,0 +1,20 @@
+html
+css
+javascript
+react
+node.js
+express.js
+mongodb
+git
+github
+responsive design
+webpack
+api integration
+rest api
+authentication
+firebase
+sql
+typescript
+debugging
+dom manipulation
+version control

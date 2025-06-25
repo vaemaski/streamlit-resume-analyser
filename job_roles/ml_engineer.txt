@@ -1,0 +1,20 @@
+python
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+machine learning
+deep learning
+matplotlib
+seaborn
+data preprocessing
+feature engineering
+model evaluation
+model deployment
+mlflow
+docker
+flask
+cloud computing
+computer vision
+nlp

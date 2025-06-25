@@ -1,0 +1,20 @@
+python
+sql
+data analysis
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+machine learning
+statistics
+data visualization
+jupyter notebooks
+big data
+hadoop
+spark
+a/b testing
+data wrangling
+business intelligence
+storytelling

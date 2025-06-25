@@ -1,0 +1,12 @@
+python
+pandas
+numpy
+data visualization
+matplotlib
+excel
+data analysis
+sql
+communication
+problem solving
+statistics
+machine learning
